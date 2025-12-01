@@ -43,7 +43,7 @@ The system follows a **Map-Reduce-Refine** pattern:
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/Neer-17/Mythmaker.git](https://github.com/Neer-17/Mythmaker.git)
+    git clone https://github.com/Neer-17/Mythmaker.git
     cd mythmaker
     ```
 
