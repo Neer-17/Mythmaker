@@ -1,0 +1,6 @@
+streamlit
+google-genai>=0.1.0
+python-dotenv
+Pillow
+nest_asyncio
+watchdog
