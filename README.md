@@ -74,6 +74,3 @@ The system follows a **Map-Reduce-Refine** pattern:
 2.  Open your browser to the local URL (usually `http://localhost:8501`).
 3.  **Input:** Enter a location (e.g., "Tower of London") and upload an image (e.g., an old castle photo).
 4.  **Click "Summon Agents":** Watch the logs as the agents perform research and writing in real-time.
-
-## 📂 Project Structure
-├── app.py # Main application logic & agent definitions ├── requirements.txt # Python dependencies ├── .env # API keys (not committed to git) └── README.md # Documentation
